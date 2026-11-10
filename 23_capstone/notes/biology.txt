@@ -1,0 +1,7 @@
+﻿Photosynthesis is the process by which green plants prepare their food using sunlight, carbon dioxide and water.
+Chlorophyll is the green pigment that absorbs sunlight.
+Oxygen is released during photosynthesis.
+
+Python is a programming language.
+A variable is a named storage location used to store data.
+A function is a reusable block of code.
